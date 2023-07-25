@@ -16,8 +16,14 @@ O app consiste em calcular o valor do IMC (Índice de Massa Corporal), adicionan
 <br>
 
 <table style = {border: "none"}> <tr>
-<td> <img src = "https://github.com/dev-henrique-silva/calculadora_IMC/assets/81243358/765de3f4-1832-4a9e-bc8e-8044a63743f7" alt = "Tela inicial" /> </td>
-<td> <img src = "https://github.com/dev-henrique-silva/calculadora_IMC/assets/81243358/3d7f588a-a89a-4ff5-b17f-fea99a65ee5e" alt = "Validação de inputs" /> </td>
-<td> <img src = "https://github.com/dev-henrique-silva/calculadora_IMC/assets/81243358/4a678c9f-5f73-44da-9438-7b13168eed42" alt = "Card com resultado" /> </td>
+<td> <img src = "https://github.com/dev-henrique-silva/calculadora_IMC/assets/81243358/765de3f4-1832-4a9e-bc8e-8044a63743f7" alt = "Tela inicial" />
+<h3>Tela inicial</h3>
+</td>
+<td> <img src = "https://github.com/dev-henrique-silva/calculadora_IMC/assets/81243358/3d7f588a-a89a-4ff5-b17f-fea99a65ee5e" alt = "Validação de inputs" />
+<h3>Validação de inputs</h3>
+</td>
+<td> <img src = "https://github.com/dev-henrique-silva/calculadora_IMC/assets/81243358/4a678c9f-5f73-44da-9438-7b13168eed42" alt = "Card com resultado" />
+<h3>Card com resultado</h3>
+</td>
 </tr>
 </table>
